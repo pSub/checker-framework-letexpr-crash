@@ -56,11 +56,6 @@
             <artifactId>checker-qual</artifactId>
             <version>${checker.framework.version}</version>
         </dependency>
-        <dependency>
-            <groupId>de.hansemerkur.types-basis</groupId>
-            <artifactId>types-basis-api</artifactId>
-            <version>4.0.6</version>
-        </dependency>
     </dependencies>
 
 </project>
