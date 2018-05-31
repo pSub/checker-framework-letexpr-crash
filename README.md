@@ -1,6 +1,8 @@
 Checker Framework crash: LetExpr is not part of a public API
 ============================================================
 
+**The bug has been fixed!**
+
 This repository contains Java code that triggers the `LetExpr is not part of a public API` assertion error when running
 any checker of the [checker framework](https://checkerframework.org/). The issue was first reported in issue
 [#469](https://github.com/typetools/checker-framework/issues/469) but without a minimal working example. The code in this
